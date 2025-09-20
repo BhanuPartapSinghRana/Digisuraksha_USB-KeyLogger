@@ -2,7 +2,7 @@
 
 This repository contains my internship project at Digisuraksha Foundation, where I explored the concept of USB Keyloggers as part of hardware-level cybersecurity research. The project aims to raise awareness about how these devices work, their use cases, risks, and how organizations can defend against them.
 
-## ⚠️ Disclaimer: This project is created purely for educational and ethical purposes. Unauthorized use of keyloggers is illegal.
+### ⚠️ Disclaimer: This project is created purely for educational and ethical purposes. Unauthorized use of keyloggers is illegal.
 
 ## 📖 About the Project
 
