@@ -34,7 +34,7 @@ A USB Keylogger is a small hardware device that connects between a keyboard and 
 - To contribute to cybersecurity education and research
 
 ## 📹 Project Demo
-👉 [Video Link Here] (Add your LinkedIn/YouTube link once uploaded)
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7375228020330180609/
 
 ## 📌 Best Case Scenarios
 - Penetration testing (authorized environments)
